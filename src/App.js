@@ -8,7 +8,7 @@ function App() {
         <h1 h1>Hello React!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>src/App.js</code>を編集したら保存する。
+          佐藤泰知です
         </p>
         <a
           className="App-link"

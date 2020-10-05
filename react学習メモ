@@ -1,0 +1,12 @@
+ローカルでサーバー立てる時
+npm start
+http://localhost:3000/で見られる
+
+npm install gh-pages --save-dev
+でgitpagesを設定する。
+
+デプロイするにはnpm run deploy
+ローカルにある物をデプロイしているかも
+https://t1a2i3t4i5.github.io/portfolio/
+
+
